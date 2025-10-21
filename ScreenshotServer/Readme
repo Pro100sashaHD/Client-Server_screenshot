@@ -1,0 +1,2 @@
+просмотр пользователей
+#docker exec -it screenshot-postgres psql -U postgres -d screenshot_db -c "SELECT * FROM users;"
